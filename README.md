@@ -5,7 +5,7 @@ The objective of this study is to perform a comprehensive Drill Bit Analysis aim
 ## Problem Description
 In drilling operations, the performance and efficiency of the drill bit are heavily influenced by the interaction between input parameters such as velocity and torque and the resulting output parameters, i.e., speed and weight on the bit. Traditionally, these parameters have been experimentally determined. However, the goal here is to develop a predictive framework that utilizes a simulational model to forecast the Output Speed and Weight on the Drill Bit based on the Input Velocity and Torque using the same predictive model employed for experimental data.
 
-![image](drillstring.png)
+![image](drill_string.png)
 
 ## Simulational Model
 A computational drill bit model was developed to simulate various operational scenarios. This model replicates real-world drilling conditions and allows for controlled variation of input parameters such as velocity and torque. The simulation generates corresponding output parameters, which include:
