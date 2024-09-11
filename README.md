@@ -15,8 +15,11 @@ The simulation results serve as synthetic data for validating and improving the 
 ## Predictive Model Development
 The predictive model is designed using Recurrent Neural Networks (RNN), a machine learning architecture well-suited for time-series data, given the continuous nature of drill operations and the relationship between the input and output parameters.
 
-## Experimental Data Collection 
+## Experimental Data Prediction 
 Real-world experiments are conducted to gather data on the input velocity and torque applied to the drill bit and the resulting output speed and weight on the bit. This data is essential for training the RNN model.
+![image](https://github.com/user-attachments/assets/d6754b79-136e-4821-a2c9-71d8edcefb0b)
+
+![image](https://github.com/user-attachments/assets/e34d2607-de9c-43ff-a774-d7f02f8e4e7e)
 
 ## Simulational Data Generation
 The simulational model provides additional data points, simulating various conditions and helping augment the experimental dataset.
