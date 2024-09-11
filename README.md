@@ -17,9 +17,10 @@ The predictive model is designed using Recurrent Neural Networks (RNN), a machin
 
 ## Experimental Data Prediction 
 Real-world experiments are conducted to gather data on the input velocity and torque applied to the drill bit and the resulting output speed and weight on the bit. This data is essential for training the RNN model.
-![image](https://github.com/user-attachments/assets/d6754b79-136e-4821-a2c9-71d8edcefb0b)
-
-![image](https://github.com/user-attachments/assets/e34d2607-de9c-43ff-a774-d7f02f8e4e7e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6754b79-136e-4821-a2c9-71d8edcefb0b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5c2bc0f3-0626-41ff-8952-74262d78f154" width="45%" />
+</p>
 
 ## Simulational Data Generation
 The simulational model provides additional data points, simulating various conditions and helping augment the experimental dataset.
